@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manasiAraspure
-- 👀 I’m like learning coding professionally and Dancing personally😛
+- 👀 I’m like learning Coding Professionally and Dancing Personally😛
 - 📫 Do reach out to me on @araspuremanasi@gmail.com and On Instagram: manasi_araspure
 
 <!---
