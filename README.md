@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @manasiAraspure
-- 👀 I’m interested in learning new things, coding and dancing 😛
-- 🌱 I’m currently learning Computer Science
-- 📫 Do reach me on @araspuremanasi@gmail.com and On Instagram: manasi_araspure
+- 👀 I’m like learning coding professionally and Dancing personally😛
+- 📫 Do reach out to me on @araspuremanasi@gmail.com and On Instagram: manasi_araspure
 
 <!---
 manasiAraspure/manasiAraspure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
