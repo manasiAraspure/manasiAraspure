@@ -5,6 +5,8 @@
 ☕ Fueled by coffee, one cup at a time... okay, several cups
 🤖 Currently falling down the GenAI & Agentic AI rabbit hole — and loving it
 
+> 📌 Most of my work lives in private/enterprise repos at my day job, so this profile looks quieter than my actual coding life 😅 — currently changing that with some public projects!
+
 ---
 
 ### 🧰 Backend toolkit
